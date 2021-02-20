@@ -1,0 +1,13 @@
+C:\Users\Sparky\source\repos\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+C:\Users\Sparky\source\repos\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+C:\Users\Sparky\source\repos\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+C:\Users\Sparky\source\repos\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+C:\Users\Sparky\source\repos\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+C:\Users\Sparky\source\repos\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+C:\Users\Sparky\source\repos\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csprojAssemblyReference.cache
+C:\Users\Sparky\source\repos\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+C:\Users\Sparky\source\repos\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+C:\Users\Sparky\source\repos\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+C:\Users\Sparky\source\repos\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+C:\Users\Sparky\source\repos\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+C:\Users\Sparky\source\repos\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache
